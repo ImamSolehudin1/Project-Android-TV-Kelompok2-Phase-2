@@ -16,4 +16,4 @@
 ![gambar](Screenshot_project.jpeg)
 
 
-![gambar](Screenshot_project.jpeg2)
+![gambar](Screenshot_project2.jpeg)
