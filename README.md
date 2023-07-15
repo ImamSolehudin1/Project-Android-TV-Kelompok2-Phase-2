@@ -12,6 +12,8 @@
 
 # Screenshot Project
 
-![gambar]()
 
-![gambar]()
+![gambar](Screenshot_project.jpeg)
+
+
+![gambar](Screenshot_project.jpeg2)
