@@ -10,6 +10,9 @@
 - Farida Prasetyaning Rahayu (312110607) as UI/UX
 - Afra Nesya Apriyanthi (312110614) as UI/UX
 
+- Link Download Build Apk
+  https://drive.google.com/file/d/1KB4U4Y7kOlvA1uuRLIoY_pLoecZ-3dot/view?usp=sharing 
+
 # Screenshot Project
 
 
