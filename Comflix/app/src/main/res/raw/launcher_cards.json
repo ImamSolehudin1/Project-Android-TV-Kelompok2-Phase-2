@@ -1,0 +1,29 @@
+[
+  {
+    "title": "",
+    "cards": [
+      {
+        "id": 0,
+        "type": "DEFAULT",
+        "title": "Pilih Kawasan ",
+        "localImageResource": "thumbnail_example_cards",
+        "description": ""
+      },
+
+      {
+        "id": 10,
+        "type": "DEFAULT",
+        "title": "Pengaturan Aplikasi",
+        "localImageResource": "setting",
+        "description": ""
+      },
+      {
+        "id": 13,
+        "type": "DEFAULT",
+        "title": "Keluar",
+        "localImageResource": "quit",
+        "description": ""
+      }
+    ]
+  }
+]

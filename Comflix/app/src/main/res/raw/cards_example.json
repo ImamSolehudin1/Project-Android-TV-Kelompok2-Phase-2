@@ -1,0 +1,163 @@
+[
+  {
+    "type" : 1,
+    "title": ""
+  },
+  {
+    "title": "KAWASAN  INDUSTRI  EJIP",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "PT. Epson Indonesia",
+        "localImageResource": "epson"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Kiyokuni Indonesia",
+        "localImageResource": "kiyokuni"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Aisan Nasmoko Industri",
+        "localImageResource": "ani"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Musashi Autopart Indonesia",
+        "localImageResource": "musashi"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Indonesia TRC Industri",
+        "localImageResource": "trc"
+      }
+
+    ]
+  },
+  {
+    "title": "KAWASAN INDUSTRI HYUNDAI",
+
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "PT. Dynaplast Tbk",
+        "localImageResource": "dynaplas"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Hyundai Wegantara Metal",
+        "localImageResource": "hyundai"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT.Lippo Cikarang",
+        "localImageResource": "lippo"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Shin Heung",
+        "localImageResource": "shc"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Amstrong Industri",
+        "localImageResource": "armstrong"
+      }
+    ]
+  },
+  {
+    "title": "KAWASAN INDUSTRI JABABEKA",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "PT. Mattel Indonesia",
+        "localImageResource": "mattel"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Samsung Electronics Indonesia",
+        "localImageResource": "samsung"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Unilever Indonesia",
+        "localImageResource": "unilever"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Loreal Manufacturing Indonesia",
+        "localImageResource": "loreal"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Nippon Steal And Material Indonesia",
+        "localImageResource": "nippon"
+      }
+    ]
+  },
+  {
+    "title": "KAWASAN INDUSTRI MM2100",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "PT. Astra Honda Motor",
+        "footerColor": "#bf360C",
+        "localImageResource": "ahm"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Yamaha Music Manufacturing Asia",
+        "footerColor": "#b93221",
+        "localImageResource": "ymma"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Denso Indonesia",
+        "footerColor": "#311b92",
+        "localImageResource": "denso"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Mikuni Indonesia",
+        "footerColor": "#33691e",
+        "localImageResource": "mikuni"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Hitachi Astemo",
+        "footerColor": "#37474f",
+        "localImageResource": "hitachi"
+      }
+    ]
+  },
+  {
+    "title": "KAWASAN INDUSTRI GIIC",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "PT. Nissin Manufacturing Indonesia",
+        "localImageResource": "nissin"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Mitsubishi Motor Krama Yudha Indonesia",
+        "localImageResource": "mitsubishi"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. SGMW Motor Indonesia (Wuling)",
+        "localImageResource": "wuling"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Suzuki Indomobil Motor",
+        "localImageResource": "suzuki"
+      },
+      {
+        "type": "MOVIE",
+        "title": "PT. Shindengen Indonesia",
+        "localImageResource": "shindengen"
+      }
+    ]
+  }
+]
